@@ -1,0 +1,17 @@
+.nav {
+  font-size: 14px;
+    position: fixed;
+    width: 100vh;
+    bottom: -3em;
+    right: 3em;
+    line-height: 2em;
+    transform: rotate(90deg);
+    transform-origin: 100% 100%;
+    
+  }
+  
+  .nav li {
+    display: block;
+   cursor: pointer;
+    color: #fff;
+  }
